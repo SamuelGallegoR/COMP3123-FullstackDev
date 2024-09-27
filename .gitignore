@@ -11,4 +11,4 @@
 *.svg
 *.webp
 *.zip
-
+node_modules/
