@@ -12,3 +12,5 @@
 *.webp
 *.zip
 node_modules/
+lab_tests/
+
